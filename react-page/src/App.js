@@ -1,5 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import './App.css';
+import About from './components/about';
+import Features from './components/features';
+import Contact from './components/contact';
+
+function App() {
+  return (
+  );
+}
+
+export default App;
 
 function App() {
   return (
