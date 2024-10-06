@@ -1,17 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import React from 'react';
-import './App.css';
-import About from './components/about';
-import Features from './components/features';
-import Contact from './components/contact';
+import About from './components/about.js';
 
-function App() {
-  return (
-  );
-}
-
-export default App;
+About();
 
 function App() {
   return (
@@ -19,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and be okay.
         </p>
         <a
           className="App-link"

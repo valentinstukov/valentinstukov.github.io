@@ -2,9 +2,8 @@ import React from 'react';
 
 function About() {
     return (
-        About Us
-    This is the about section.
-);
+        "about Us")
+
 }
 
 export default About;

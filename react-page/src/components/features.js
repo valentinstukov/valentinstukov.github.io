@@ -1,10 +1,7 @@
 import React from 'react';
 
 function Features() {
-    return (
-        My Features
-    This is the about section.
-);
-}
+    return "My Feature"
+        }
 
 export default Features;
