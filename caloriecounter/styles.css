@@ -85,3 +85,7 @@ select {
 .deficit {
   color: var(--light-green);
 }
+
+.enable_js_message {
+  text-align: center;
+}
